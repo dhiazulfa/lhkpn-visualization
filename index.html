@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LHKPN Wonogiri – Duit Pejabat, Bukan Rahasia Lagi!</title>
+  <meta name="description" content="Visualisasi harta kekayaan pejabat Kabupaten Wonogiri berdasarkan data LHKPN KPK. Transparan, interaktif, dan mudah dipahami."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div id="app">
+
+    <!-- ===== HERO ===== -->
+    <header class="hero">
+      <div class="hero-bg-orbs">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+      </div>
+      <div class="container hero-content">
+        <div class="hero-badge">
+          <span class="badge-dot"></span>
+          Data LHKPN · KPK RI · Wonogiri
+        </div>
+        <h1 class="hero-title">
+          Duit Pejabat,<br/>
+          <span class="text-gradient">Bukan Rahasia</span> Lagi! 💼
+        </h1>
+        <p class="hero-subtitle">
+          Yuk, ngintip bareng harta kekayaan pejabat Kabupaten Wonogiri 
+          yang udah dilaporin ke KPK. Transparan, terbuka, dan yang penting — <strong>legal kok!</strong>
+        </p>
+        <div class="hero-chips">
+          <div class="chip chip-green">✅ Data Resmi KPK</div>
+          <div class="chip chip-blue">📊 Visualisasi Interaktif</div>
+          <div class="chip chip-purple">🔍 Bisa Di-explore</div>
+        </div>
+      </div>
+      <div class="hero-wave">
+        <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0,40 C360,80 1080,0 1440,40 L1440,80 L0,80 Z" fill="#0f0f1a"/>
+        </svg>
+      </div>
+    </header>
+
+    <!-- ===== PROFILE CARD ===== -->
+    <section class="section container" id="profile">
+      <div class="profile-card" v-if="latestData">
+        <div class="profile-avatar">
+          <div class="avatar-ring">
+            <div class="avatar-inner">
+              <span class="avatar-icon">👨‍💼</span>
+            </div>
+          </div>
+          <div class="profile-badge-jabatan">{{ latestData.jabatan }}</div>
+        </div>
+        <div class="profile-info">
+          <h2 class="profile-name">{{ latestData.name }}</h2>
+          <p class="profile-lembaga">{{ latestData.lembaga }}</p>
+          <div class="profile-meta">
+            <div class="meta-item">
+              <span class="meta-icon">📅</span>
+              <span>Laporan terakhir: <strong>{{ latestData.tanggal_lapor }}</strong></span>
+            </div>
+            <div class="meta-item">
+              <span class="meta-icon">📋</span>
+              <span>Jenis: <strong>{{ latestData.jenis_laporan }}</strong></span>
+            </div>
+          </div>
+          <div class="profile-total-harta">
+            <p class="total-label">Total Harta (Terbaru)</p>
+            <p class="total-value">{{ latestData.total_harta }}</p>
+            <p class="total-note">*Setelah dikurangi hutang</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== STATS RING ===== -->
+    <section class="section container" id="stats">
+      <div class="section-header">
+        <h2 class="section-title">Snapshot Kekayaan 📸</h2>
+        <p class="section-sub">Data laporan terbaru — sekilas pandang kekayaan si bos</p>
+      </div>
+      <div class="stats-grid" v-if="latestData">
+        <div class="stat-card stat-card--tanah">
+          <div class="stat-icon">🏠</div>
+          <div class="stat-info">
+            <p class="stat-label">Tanah & Bangunan</p>
+            <p class="stat-value">{{ formatRupiah(totalTanahBangunan(latestData)) }}</p>
+            <p class="stat-count">{{ latestData.tanah_bangunan.length }} aset</p>
+          </div>
+        </div>
+        <div class="stat-card stat-card--transportasi">
+          <div class="stat-icon">🚗</div>
+          <div class="stat-info">
+            <p class="stat-label">Kendaraan</p>
+            <p class="stat-value">{{ formatRupiah(totalTransportasi(latestData)) }}</p>
+            <p class="stat-count">{{ latestData.transportasi.length }} unit</p>
+          </div>
+        </div>
+        <div class="stat-card stat-card--kas">
+          <div class="stat-icon">💰</div>
+          <div class="stat-info">
+            <p class="stat-label">Kas & Setara Kas</p>
+            <p class="stat-value">{{ formatRupiah(totalKas(latestData)) }}</p>
+            <p class="stat-count">Di rekening</p>
+          </div>
+        </div>
+        <div class="stat-card stat-card--bergerak">
+          <div class="stat-icon">📦</div>
+          <div class="stat-info">
+            <p class="stat-label">Harta Bergerak</p>
+            <p class="stat-value">{{ formatRupiah(totalBergerak(latestData)) }}</p>
+            <p class="stat-count">Aset bergerak lainnya</p>
+          </div>
+        </div>
+        <div class="stat-card stat-card--hutang">
+          <div class="stat-icon">📉</div>
+          <div class="stat-info">
+            <p class="stat-label">Total Hutang</p>
+            <p class="stat-value">{{ formatRupiah(totalHutang(latestData)) }}</p>
+            <p class="stat-count">Kewajiban</p>
+          </div>
+        </div>
+        <div class="stat-card stat-card--laporan">
+          <div class="stat-icon">📜</div>
+          <div class="stat-info">
+            <p class="stat-label">Total Laporan</p>
+            <p class="stat-value">{{ lhkpnData.length }}x</p>
+            <p class="stat-count">Sejak 2003</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== GRAFIK TIMELINE ===== -->
+    <section class="section container" id="timeline-chart">
+      <div class="section-header">
+        <h2 class="section-title">Perjalanan Harta dari Masa ke Masa 📈</h2>
+        <p class="section-sub">Dari anggota DPRD sampai jadi Bupati — hartanya naik-turun kayak saham!</p>
+      </div>
+      <div class="chart-wrapper">
+        <canvas id="hartaChart"></canvas>
+      </div>
+      <div class="chart-legend-custom">
+        <div class="legend-item">
+          <div class="legend-dot legend-dot--harta"></div>
+          <span>Total Harta Bersih</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot legend-dot--hutang"></div>
+          <span>Total Hutang</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== TIMELINE JABATAN ===== -->
+    <section class="section container" id="timeline">
+      <div class="section-header">
+        <h2 class="section-title">Karier si Bos 🏛️</h2>
+        <p class="section-sub">Klik laporan buat lihat detail hartanya per tahun</p>
+      </div>
+      <div class="timeline-container">
+        <div
+          class="timeline-item"
+          v-for="(item, index) in sortedData"
+          :key="index"
+          :class="{ 'timeline-item--active': selectedIndex === index }"
+          @click="selectItem(index)"
+        >
+          <div class="timeline-dot">
+            <span class="timeline-dot-icon">{{ getJabatanIcon(item.jabatan) }}</span>
+          </div>
+          <div class="timeline-content">
+            <div class="timeline-top">
+              <div>
+                <p class="timeline-date">{{ item.tanggal_lapor }}</p>
+                <p class="timeline-jabatan">{{ item.jabatan }}</p>
+                <p class="timeline-lembaga">{{ item.lembaga }}</p>
+              </div>
+              <div class="timeline-harta-badge" :class="getTrendClass(item, index)">
+                <span class="trend-icon">{{ getTrendIcon(item, index) }}</span>
+                <span>{{ item.total_harta }}</span>
+              </div>
+            </div>
+            <div class="timeline-jenis-badge">{{ item.jenis_laporan }}</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== DETAIL HARTA ===== -->
+    <section class="section container" id="detail" v-if="selectedItem">
+      <div class="section-header">
+        <h2 class="section-title">Detail Aset Kekayaan 🔍</h2>
+        <p class="section-sub">Laporan per <strong>{{ selectedItem.tanggal_lapor }}</strong> — ini nih isi dompetnya!</p>
+      </div>
+
+      <!-- Tabs -->
+      <div class="tabs">
+        <button
+          class="tab-btn"
+          v-for="tab in tabs"
+          :key="tab.key"
+          :class="{ 'tab-btn--active': activeTab === tab.key }"
+          @click="activeTab = tab.key"
+        >
+          {{ tab.icon }} {{ tab.label }}
+        </button>
+      </div>
+
+      <!-- Tanah & Bangunan -->
+      <div class="tab-content" v-if="activeTab === 'tanah'">
+        <div v-if="selectedItem.tanah_bangunan.length > 0" class="asset-list">
+          <div class="asset-item" v-for="(asset, i) in selectedItem.tanah_bangunan" :key="i">
+            <div class="asset-rank">{{ i + 1 }}</div>
+            <div class="asset-desc">
+              <p class="asset-description-text">{{ parseDescription(asset.description) }}</p>
+              <p class="asset-tag">🏡 Properti</p>
+            </div>
+            <div class="asset-value">{{ formatRupiah(parseInt(asset.value.replace(/\./g, ''))) }}</div>
+          </div>
+          <div class="asset-total">
+            <span>Total Tanah & Bangunan</span>
+            <span>{{ formatRupiah(totalTanahBangunan(selectedItem)) }}</span>
+          </div>
+        </div>
+        <div v-else class="empty-state">
+          <p>😴 Kosong bro, nggak ada data tanah & bangunan di laporan ini.</p>
+        </div>
+      </div>
+
+      <!-- Transportasi -->
+      <div class="tab-content" v-if="activeTab === 'transportasi'">
+        <div v-if="selectedItem.transportasi.length > 0" class="asset-list">
+          <div class="asset-item" v-for="(asset, i) in selectedItem.transportasi" :key="i">
+            <div class="asset-rank">{{ i + 1 }}</div>
+            <div class="asset-desc">
+              <p class="asset-description-text">{{ parseVehicle(asset.description) }}</p>
+              <p class="asset-tag">🚗 Kendaraan</p>
+            </div>
+            <div class="asset-value">{{ formatRupiah(parseInt(asset.value.replace(/\./g, ''))) }}</div>
+          </div>
+          <div class="asset-total">
+            <span>Total Kendaraan</span>
+            <span>{{ formatRupiah(totalTransportasi(selectedItem)) }}</span>
+          </div>
+        </div>
+        <div v-else class="empty-state">
+          <p>😴 Nggak ada kendaraan tercatat di laporan ini.</p>
+        </div>
+      </div>
+
+      <!-- Kas -->
+      <div class="tab-content" v-if="activeTab === 'kas'">
+        <div v-if="totalKas(selectedItem) > 0" class="single-value-display">
+          <div class="svg-icon">💳</div>
+          <div class="single-value-info">
+            <p class="single-value-label">Kas & Setara Kas</p>
+            <p class="single-value-amount">{{ formatRupiah(totalKas(selectedItem)) }}</p>
+            <p class="single-value-desc">Uang tunai, tabungan, dan deposito</p>
+          </div>
+        </div>
+        <div v-else class="empty-state">
+          <p>😴 Nggak ada catatan kas di laporan ini.</p>
+        </div>
+      </div>
+
+      <!-- Harta Bergerak -->
+      <div class="tab-content" v-if="activeTab === 'bergerak'">
+        <div v-if="totalBergerak(selectedItem) > 0" class="single-value-display">
+          <div class="svg-icon">📦</div>
+          <div class="single-value-info">
+            <p class="single-value-label">Harta Bergerak Lainnya</p>
+            <p class="single-value-amount">{{ formatRupiah(totalBergerak(selectedItem)) }}</p>
+            <p class="single-value-desc">Logam mulia, barang seni, dan sejenisnya</p>
+          </div>
+        </div>
+        <div v-else class="empty-state">
+          <p>😴 Nggak ada harta bergerak lainnya tercatat.</p>
+        </div>
+      </div>
+
+      <!-- Hutang -->
+      <div class="tab-content" v-if="activeTab === 'hutang'">
+        <div v-if="totalHutang(selectedItem) > 0" class="single-value-display single-value-display--red">
+          <div class="svg-icon">📉</div>
+          <div class="single-value-info">
+            <p class="single-value-label">Total Hutang / Kewajiban</p>
+            <p class="single-value-amount single-value-amount--red">{{ formatRupiah(totalHutang(selectedItem)) }}</p>
+            <p class="single-value-desc">Hutang bank, KPR, atau kewajiban lainnya</p>
+          </div>
+        </div>
+        <div v-else class="empty-state">
+          <p>✅ Bersih! Nggak ada hutang tercatat di laporan ini.</p>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ===== DONUT CHART ===== -->
+    <section class="section container" id="komposisi" v-if="selectedItem">
+      <div class="section-header">
+        <h2 class="section-title">Komposisi Harta 🥧</h2>
+        <p class="section-sub">Hartanya paling banyak dari mana? Cus cek!</p>
+      </div>
+      <div class="donut-wrapper">
+        <div class="donut-chart-container">
+          <canvas id="donutChart"></canvas>
+        </div>
+        <div class="donut-legend">
+          <div class="donut-legend-item" v-for="(item, i) in komposisiData" :key="i">
+            <div class="donut-legend-dot" :style="{ background: item.color }"></div>
+            <div class="donut-legend-text">
+              <p class="donut-legend-label">{{ item.label }}</p>
+              <p class="donut-legend-value">{{ item.formattedValue }}</p>
+              <div class="donut-legend-bar">
+                <div class="donut-legend-bar-fill" :style="{ width: item.pct + '%', background: item.color }"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FOOTER ===== -->
+    <footer class="footer">
+      <div class="container footer-content">
+        <div class="footer-brand">
+          <div class="footer-logo">💼 LHKPN Wonogiri</div>
+          <p class="footer-tagline">Transparansi itu keren. 
+          <br/>Data diambil dari <a href="https://elhkpn.kpk.go.id" target="_blank" class="footer-link">elhkpn.kpk.go.id</a></p>
+        </div>
+        <div class="footer-note">
+          <p>⚠️ Ini bukan situs resmi pemerintah.</p>
+          <p>Dibuat untuk kepentingan <strong>edukasi & transparansi publik.</strong></p>
+          <p class="footer-copy">© 2025 · Kabupaten Wonogiri</p>
+        </div>
+      </div>
+    </footer>
+
+  </div><!-- /#app -->
+
+  <script src="app.js"></script>
+</body>
+</html>

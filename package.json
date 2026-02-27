@@ -1,0 +1,10 @@
+{
+  "name": "lhkpn-wonogiri",
+  "version": "1.0.0",
+  "description": "Visualisasi LHKPN Kabupaten Wonogiri",
+  "scripts": {
+    "dev":   "npm run dev   --prefix vue-app",
+    "build": "npm run build --prefix vue-app",
+    "preview": "npm run preview --prefix vue-app"
+  }
+}
