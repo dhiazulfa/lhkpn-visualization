@@ -11,8 +11,8 @@
       </div>
       <div class="footer-note">
         <p>⚠️ Ini bukan situs resmi pemerintah.</p>
-        <p>Dibuat untuk kepentingan <strong>edukasi & transparansi publik.</strong></p>
-        <p class="footer-copy">© 2025 · Kabupaten Wonogiri</p>
+        <p>Dibuat untuk kepentingan <strong>edukasi &amp; transparansi publik.</strong></p>
+        <p class="footer-copy">© 2026 · by <a href="https://github.com/dhiazulfa" target="_blank" class="footer-link">key8ice</a></p>
       </div>
     </div>
   </footer>

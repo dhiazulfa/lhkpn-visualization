@@ -612,38 +612,6 @@
         ]
     },
     {
-        "name": "SETYO SUKARNO",
-        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
-        "unit_kerja": "PIMPINAN TERTINGGI",
-        "jabatan": "KETUA DPRD",
-        "tanggal_lapor": "31 Desember 2017",
-        "jenis_laporan": "Periodik",
-        "total_harta": "Rp.-405.000.000",
-        "tanah_bangunan": [],
-        "transportasi": [],
-        "bergerak_lainnya": [],
-        "surat_berharga": [],
-        "kas": [],
-        "harta_lainnya": [],
-        "hutang": []
-    },
-    {
-        "name": "SETYO SUKARNO",
-        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
-        "unit_kerja": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
-        "jabatan": "ANGGOTA",
-        "tanggal_lapor": "27 Desember 2003",
-        "jenis_laporan": "Periodik",
-        "total_harta": "Rp.408.000.000",
-        "tanah_bangunan": [],
-        "transportasi": [],
-        "bergerak_lainnya": [],
-        "surat_berharga": [],
-        "kas": [],
-        "harta_lainnya": [],
-        "hutang": []
-    },
-    {
         "name": "IMRON RIZKYARNO",
         "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
         "unit_kerja": "WAKIL PIMPINAN",
@@ -1210,61 +1178,6 @@
             {
                 "description": "Total",
                 "value": "278.919.605"
-            }
-        ]
-    },
-    {
-        "name": "HARYONO",
-        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
-        "unit_kerja": "KECAMATAN",
-        "jabatan": "LURAH KEDUNGREJO",
-        "tanggal_lapor": "31 Desember 2025",
-        "jenis_laporan": "Periodik",
-        "total_harta": "Rp.65.046.012",
-        "tanah_bangunan": [
-            {
-                "description": "Tanah dan Bangunan Seluas 959 m2/70 m2 di KAB / KOTA WONOGIRI, WARISAN",
-                "value": "56.500.000"
-            }
-        ],
-        "transportasi": [
-            {
-                "description": "MOTOR, YAMAHA YUPITER Tahun 2008, HASIL SENDIRI",
-                "value": "4.000.000"
-            },
-            {
-                "description": "MOTOR, SUZUKI SATRIA Tahun 2011, HASIL SENDIRI",
-                "value": "3.000.000"
-            }
-        ],
-        "bergerak_lainnya": [
-            {
-                "description": "Total",
-                "value": "0"
-            }
-        ],
-        "surat_berharga": [
-            {
-                "description": "Total",
-                "value": "0"
-            }
-        ],
-        "kas": [
-            {
-                "description": "Total",
-                "value": "1.546.012"
-            }
-        ],
-        "harta_lainnya": [
-            {
-                "description": "Total",
-                "value": "0"
-            }
-        ],
-        "hutang": [
-            {
-                "description": "Total",
-                "value": "0"
             }
         ]
     },
@@ -2285,6 +2198,435 @@
         "tanggal_lapor": "26 Desember 2003",
         "jenis_laporan": "Periodik",
         "total_harta": "Rp.18.400.000",
+        "tanah_bangunan": [],
+        "transportasi": [],
+        "bergerak_lainnya": [],
+        "surat_berharga": [],
+        "kas": [],
+        "harta_lainnya": [],
+        "hutang": []
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD I",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.667.981.620",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 8645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "810.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 3932 m2/330 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.085.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISSAN TERANO SPIRIT Tahun 2002, HASIL SENDIRI",
+                "value": "37.500.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA 2BJ Tahun 2014, HASIL SENDIRI",
+                "value": "5.750.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "88.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "358.268.380"
+            }
+        ]
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.2.005.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 8645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "810.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 3932 m2/330 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.065.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISSAN TERANO SPIRIT Tahun 2002, HASIL SENDIRI",
+                "value": "39.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA 2BJ Tahun 2014, HASIL SENDIRI",
+                "value": "6.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "85.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.758.275.008",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 8645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "805.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 3932 m2/330 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.060.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISSAN TERANO SPIRIT Tahun 2002, HASIL SENDIRI",
+                "value": "39.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA 2BJ Tahun 2014, HASIL SENDIRI",
+                "value": "6.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "10.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "161.724.992"
+            }
+        ]
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.612.382.161",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 8645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "805.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 3932 m2/330 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.060.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISSAN TERANO SPIRIT Tahun 2002, HASIL SENDIRI",
+                "value": "39.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA 2BJ Tahun 2014, HASIL SENDIRI",
+                "value": "7.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "298.617.839"
+            }
+        ]
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2020",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.511.187.767",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 8645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "800.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 3932 m2/330 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.050.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISSAN TERANO SPIRIT Tahun 2002, HASIL SENDIRI",
+                "value": "40.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA 2BJ Tahun 2014, HASIL SENDIRI",
+                "value": "8.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "386.812.233"
+            }
+        ]
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2019",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.330.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 8645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "750.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 3932 m2/330 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISSAN TERANO SPIRIT Tahun 2002, HASIL SENDIRI",
+                "value": "40.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA 2BJ Tahun 2014, HASIL SENDIRI",
+                "value": "8.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "468.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2018",
+        "jenis_laporan": "Khusus, Calon PN",
+        "total_harta": "Rp.1.551.500.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 8645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "600.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 3932 m2/330 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "950.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISSAN TERANO SPIRIT Tahun 2002, HASIL SENDIRI",
+                "value": "45.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA 2BJ Tahun 2014, HASIL SENDIRI",
+                "value": "9.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "53.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SUGENG AHMADY",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2017",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.478.266.000",
         "tanah_bangunan": [],
         "transportasi": [],
         "bergerak_lainnya": [],

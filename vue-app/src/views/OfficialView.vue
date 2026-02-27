@@ -1,7 +1,7 @@
 <template>
   <div v-if="loading" class="loading-screen">
     <div class="spinner"></div>
-    <p class="loading-text">Ngambil data si bos... 📂</p>
+    <p class="loading-text">Ngambil data dulu 📂</p>
   </div>
 
   <div v-else-if="!officialRecords.length" class="loading-screen">
@@ -34,7 +34,7 @@
     <section class="section container" id="stats">
       <div class="section-header">
         <h2 class="section-title">Snapshot Kekayaan 📸</h2>
-        <p class="section-sub">Data laporan terbaru — sekilas pandang kekayaan si bos</p>
+        <p class="section-sub">Data laporan terbaru</p>
       </div>
       <StatsGrid :data="latestData" :totalLaporan="officialRecords.length" />
     </section>
@@ -43,7 +43,7 @@
     <section class="section container" id="timeline-chart">
       <div class="section-header">
         <h2 class="section-title">Perjalanan Harta dari Masa ke Masa 📈</h2>
-        <p class="section-sub">Hartanya naik-turun kayak kripto — tapi ini real aset bro!</p>
+        <p class="section-sub">Hartanya naik-turun, wusss</p>
       </div>
       <HartaChart :data="officialRecords" />
     </section>
@@ -51,7 +51,7 @@
     <!-- Timeline Karier -->
     <section class="section container" id="timeline">
       <div class="section-header">
-        <h2 class="section-title">Karier si Bos 🏛️</h2>
+        <h2 class="section-title">Karier🏛️</h2>
         <p class="section-sub">Klik laporan buat lihat detail hartanya per tahun</p>
       </div>
       <TimelineList

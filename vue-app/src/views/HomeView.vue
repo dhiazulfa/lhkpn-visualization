@@ -26,7 +26,7 @@
             Wonogiri! 👀
           </h1>
           <p class="hero-subtitle hero-subtitle--dark">
-            Data LHKPN bukan buat sombong, tapi buat
+            Visualisasi Data LHKPN ini dibuat sebagai
             <strong>transparansi publik!</strong>
             Pilih pejabat, lihat detail hartanya.
           </p>
@@ -171,20 +171,54 @@
       </div>
     </section>
 
-    <!-- ===== INFO BANNER ===== -->
+    <!-- ===== INFO BANNER / DISCLAIMER ===== -->
     <section class="section container">
       <div class="info-banner">
         <div class="info-banner-icon">⚠️</div>
         <div class="info-banner-text">
-          <p class="info-banner-title">Ini bukan situs resmi pemerintah</p>
+          <p class="info-banner-title">Disclaimer</p>
           <p class="info-banner-desc">
-            Data diambil dari <a href="https://elhkpn.kpk.go.id" target="_blank" class="link-blue">elhkpn.kpk.go.id</a>
-            dan ditampilkan untuk kepentingan <strong>edukasi & transparansi publik</strong>.
-            Buat ngecek langsung, kunjungi situs KPK ya!
+            Data yang ditampilkan di situs ini bersumber dari
+            <a href="https://elhkpn.kpk.go.id" target="_blank" class="link-blue">elhkpn.kpk.go.id</a>
+            (sistem e-LHKPN milik KPK RI).
+            <strong>Data di sini mungkin tidak selengkap atau tidak se-mutakhir situs resmi KPK.</strong>
+            Situs ini tidak berafiliasi dengan KPK RI maupun instansi pemerintah lainnya.
+            Seluruh informasi disajikan untuk kepentingan <strong>edukasi &amp; transparansi publik</strong>,
+            dan tidak dimaksudkan sebagai tuduhan, opini, atau penilaian hukum terhadap pihak mana pun.
+            Pengelola situs tidak bertanggung jawab atas kekeliruan atau penyalahgunaan informasi di situs ini.
           </p>
         </div>
       </div>
     </section>
+
+    <!-- ===== MODAL DISCLAIMER (first visit) ===== -->
+    <Transition name="modal">
+      <div v-if="showDisclaimer" class="modal-overlay" @click.self="closeDisclaimer">
+        <div class="modal-box">
+          <div class="modal-header">
+            <span class="modal-icon">⚠️</span>
+            <h2 class="modal-title">Sebelum Lanjut, Baca Dulu Ya!</h2>
+          </div>
+          <div class="modal-body">
+            <p>
+              Data yang ditampilkan di situs ini bersumber dari
+              <a href="https://elhkpn.kpk.go.id" target="_blank" class="link-blue">elhkpn.kpk.go.id</a>
+              (sistem e-LHKPN milik Komisi Pemberantasan Korupsi Republik Indonesia).
+            </p>
+            <ul>
+              <li>📋 <strong>Data mungkin tidak selengkap</strong> atau tidak se-mutakhir situs resmi KPK.</li>
+              <li>🏛️ Situs ini <strong>tidak berafiliasi</strong> dengan KPK RI, Pemkab Wonogiri, maupun instansi pemerintah lainnya.</li>
+              <li>📚 Informasi disajikan semata-mata untuk kepentingan <strong>edukasi &amp; transparansi publik</strong>.</li>
+              <li>⚖️ <strong>Tidak dimaksudkan</strong> sebagai tuduhan, opini, atau penilaian hukum terhadap pihak mana pun.</li>
+            </ul>
+            <p class="modal-note">Untuk data resmi dan terlengkap, kunjungi langsung <a href="https://elhkpn.kpk.go.id" target="_blank" class="link-blue">elhkpn.kpk.go.id</a>.</p>
+          </div>
+          <div class="modal-footer-btn">
+            <button class="modal-btn" @click="closeDisclaimer">✅ Saya Mengerti, Lanjutkan</button>
+          </div>
+        </div>
+      </div>
+    </Transition>
 
     <AppFooter />
   </div>
@@ -202,12 +236,22 @@ const loading = ref(true)
 const searchQuery = ref('')
 const activeFilter = ref('Semua')
 const heroImg = ref(null)
+const showDisclaimer = ref(false)
 
 const handleImgError = () => {
   if (heroImg.value) heroImg.value.src = '/hero-illustration.png'
 }
 
+const closeDisclaimer = () => {
+  showDisclaimer.value = false
+  localStorage.setItem('lhkpn_disclaimer_shown', '1')
+}
+
 onMounted(async () => {
+  // Tampilkan disclaimer modal hanya pada kunjungan pertama
+  if (!localStorage.getItem('lhkpn_disclaimer_shown')) {
+    showDisclaimer.value = true
+  }
   try {
     const res = await fetch('/lhkpn_results.json')
     lhkpnData.value = await res.json()
@@ -220,7 +264,6 @@ onMounted(async () => {
 
 // Grup data per orang unik — dibedakan berdasarkan nama + kesamaan tanah_bangunan
 const officials = computed(() => {
-  // Kelompokkan semua record berdasarkan nama terlebih dahulu
   const nameGroups = {}
   lhkpnData.value.forEach(item => {
     if (!nameGroups[item.name]) nameGroups[item.name] = []
@@ -230,11 +273,9 @@ const officials = computed(() => {
   const result = []
 
   Object.entries(nameGroups).forEach(([name, records]) => {
-    // Pisahkan records menjadi cluster berdasarkan overlap tanah_bangunan
     const clusters = clusterByTanah(records)
 
     clusters.forEach((clusterRecords, idx) => {
-      // groupKey: jika hanya 1 cluster, pakai nama saja; jika lebih, pakai nama||idx
       const groupKey = clusters.length > 1 ? `${name}||${idx}` : name
       const latest = clusterRecords[clusterRecords.length - 1]
       const firstYear = clusterRecords[0].tanggal_lapor.split(' ')[2]
