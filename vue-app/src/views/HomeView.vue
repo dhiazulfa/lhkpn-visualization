@@ -118,8 +118,8 @@
       <div v-if="filteredOfficials.length > 0" class="officials-grid">
         <RouterLink
           v-for="(official, i) in filteredOfficials"
-          :key="official.name"
-          :to="'/official/' + encodeURIComponent(official.name)"
+          :key="official.groupKey"
+          :to="'/official/' + encodeURIComponent(official.groupKey)"
           class="official-card"
         >
           <!-- Rank badge -->
@@ -194,7 +194,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import AppFooter from '../components/AppFooter.vue'
-import { formatRupiah, parseTotal } from '../utils/lhkpn.js'
+import { formatRupiah, parseTotal, clusterByTanah } from '../utils/lhkpn.js'
 
 const router = useRouter()
 const lhkpnData = ref([])
@@ -218,40 +218,43 @@ onMounted(async () => {
   }
 })
 
-// Grup data per nama pejabat
+// Grup data per orang unik — dibedakan berdasarkan nama + kesamaan tanah_bangunan
 const officials = computed(() => {
-  const groups = {}
+  // Kelompokkan semua record berdasarkan nama terlebih dahulu
+  const nameGroups = {}
   lhkpnData.value.forEach(item => {
-    if (!groups[item.name]) groups[item.name] = []
-    groups[item.name].push(item)
+    if (!nameGroups[item.name]) nameGroups[item.name] = []
+    nameGroups[item.name].push(item)
   })
 
-  return Object.entries(groups).map(([name, records]) => {
-    // Sort records by date, newest last
-    const sorted = [...records].sort((a, b) => {
-      const parseDate = (d) => {
-        const parts = d.split(' ')
-        const months = { Januari:0,Februari:1,Maret:2,April:3,Mei:4,Juni:5,
-          Juli:6,Agustus:7,September:8,Oktober:9,November:10,Desember:11 }
-        return new Date(parts[2], months[parts[1]], parseInt(parts[0]))
-      }
-      return parseDate(a.tanggal_lapor) - parseDate(b.tanggal_lapor)
-    })
-    const latest = sorted[sorted.length - 1]
-    const firstYear = sorted[0].tanggal_lapor.split(' ')[2]
+  const result = []
 
-    return {
-      name,
-      records: sorted,
-      totalLaporan: records.length,
-      latestJabatan: latest.jabatan,
-      latestLembaga: latest.lembaga,
-      latestHarta: latest.total_harta,
-      latestTanggal: latest.tanggal_lapor,
-      latestHartaNum: parseTotal(latest.total_harta),
-      firstYear,
-    }
-  }).sort((a, b) => b.latestHartaNum - a.latestHartaNum) // sort by richest
+  Object.entries(nameGroups).forEach(([name, records]) => {
+    // Pisahkan records menjadi cluster berdasarkan overlap tanah_bangunan
+    const clusters = clusterByTanah(records)
+
+    clusters.forEach((clusterRecords, idx) => {
+      // groupKey: jika hanya 1 cluster, pakai nama saja; jika lebih, pakai nama||idx
+      const groupKey = clusters.length > 1 ? `${name}||${idx}` : name
+      const latest = clusterRecords[clusterRecords.length - 1]
+      const firstYear = clusterRecords[0].tanggal_lapor.split(' ')[2]
+
+      result.push({
+        groupKey,
+        name,
+        records: clusterRecords,
+        totalLaporan: clusterRecords.length,
+        latestJabatan: latest.jabatan,
+        latestLembaga: latest.lembaga,
+        latestHarta: latest.total_harta,
+        latestTanggal: latest.tanggal_lapor,
+        latestHartaNum: parseTotal(latest.total_harta),
+        firstYear,
+      })
+    })
+  })
+
+  return result.sort((a, b) => b.latestHartaNum - a.latestHartaNum)
 })
 
 const jabatanFilters = computed(() => {

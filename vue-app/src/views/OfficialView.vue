@@ -97,9 +97,16 @@ import TimelineList from '../components/TimelineList.vue'
 import AssetDetail from '../components/AssetDetail.vue'
 import DonutChart from '../components/DonutChart.vue'
 import AppFooter from '../components/AppFooter.vue'
+import { clusterByTanah } from '../utils/lhkpn.js'
 
 const route = useRoute()
-const decodedName = computed(() => decodeURIComponent(route.params.name))
+// groupKey format: "NAMA" (single cluster) atau "NAMA||idx" (multi cluster)
+const decodedKey = computed(() => decodeURIComponent(route.params.name))
+const decodedName = computed(() => decodedKey.value.split('||')[0])
+const clusterIdx = computed(() => {
+  const parts = decodedKey.value.split('||')
+  return parts.length > 1 ? parseInt(parts[1]) : 0
+})
 
 const lhkpnData = ref([])
 const loading = ref(true)
@@ -121,19 +128,12 @@ onMounted(async () => {
   }
 })
 
-// Filter data hanya untuk pejabat ini, sorted old → new
+// Filter dan cluster data berdasarkan groupKey dari URL
 const officialRecords = computed(() => {
-  return lhkpnData.value
-    .filter(d => d.name === decodedName.value)
-    .sort((a, b) => {
-      const parseDate = (d) => {
-        const parts = d.split(' ')
-        const months = { Januari:0,Februari:1,Maret:2,April:3,Mei:4,Juni:5,
-          Juli:6,Agustus:7,September:8,Oktober:9,November:10,Desember:11 }
-        return new Date(parts[2], months[parts[1]], parseInt(parts[0]))
-      }
-      return parseDate(a.tanggal_lapor) - parseDate(b.tanggal_lapor)
-    })
+  const allForName = lhkpnData.value.filter(d => d.name === decodedName.value)
+  const clusters = clusterByTanah(allForName)
+  // Ambil cluster sesuai idx, fallback ke cluster pertama jika idx tidak ada
+  return clusters[clusterIdx.value] || clusters[0] || []
 })
 
 const latestData = computed(() => {
