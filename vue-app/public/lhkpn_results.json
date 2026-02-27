@@ -2634,5 +2634,487 @@
         "kas": [],
         "harta_lainnya": [],
         "hutang": []
+    },
+    {
+        "name": "KRISYANTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD II",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.614.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "130.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 1450 m2/262 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "610.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1777 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "850.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1140 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "520.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "475.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1.838 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "755.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA KIJANG INNOVA Tahun 2013, HASIL SENDIRI",
+                "value": "160.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA X1H02N35M1 A/T Tahun 2018, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA NF125TR M/T Tahun 2011, HASIL SENDIRI",
+                "value": "5.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "45.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "53.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "KRISYANTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.605.500.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "120.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 1450 m2/262 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "610.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1777 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "850.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1140 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "515.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "470.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1.838 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "755.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA KIJANG INNOVA Tahun 2013, HASIL SENDIRI",
+                "value": "165.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA X1H02N35M1 A/T Tahun 2018, HASIL SENDIRI",
+                "value": "13.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA NF125TR M/T Tahun 2011, HASIL SENDIRI",
+                "value": "5.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "45.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "57.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "KRISYANTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.560.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "120.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 1450 m2/262 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "600.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1777 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "850.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1140 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "510.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "470.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1.838 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "750.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA KIJANG INNOVA Tahun 2013, HASIL SENDIRI",
+                "value": "165.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA X1H02N35M1 A/T Tahun 2018, HASIL SENDIRI",
+                "value": "14.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA NF125TR M/T Tahun 2011, HASIL SENDIRI",
+                "value": "6.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "45.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "30.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "KRISYANTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.561.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "120.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 1450 m2/262 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "600.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1777 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "850.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1140 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "510.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "470.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1.838 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "750.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA KIJANG INNOVA Tahun 2013, HASIL SENDIRI",
+                "value": "175.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA X1H02N35M1 A/T Tahun 2018, HASIL SENDIRI",
+                "value": "15.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA NF125TR M/T Tahun 2011, HASIL SENDIRI",
+                "value": "6.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "45.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "20.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "KRISYANTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2020",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.579.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "120.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 1450 m2/262 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "600.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1777 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "850.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1140 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "510.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "470.000.000"
+            },
+            {
+                "description": "Tanah Seluas 3000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "750.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA KIJANG INNOVA Tahun 2013, HASIL SENDIRI",
+                "value": "175.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA X1H02N35M1 A/T Tahun 2018, HASIL SENDIRI",
+                "value": "15.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA NF125TR M/T Tahun 2011, HASIL SENDIRI",
+                "value": "6.000.000"
+            },
+            {
+                "description": "MOBIL, SUZUKI CARRY/ST100 Tahun 1995, HASIL SENDIRI",
+                "value": "18.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "45.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "20.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "KRISYANTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "WAKIL PIMPINAN",
+        "jabatan": "WAKIL KETUA DPRD",
+        "tanggal_lapor": "31 Desember 2019",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.030.100.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 645 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 1450 m2/262 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "400.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1777 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "820.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1140 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "480.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "450.000.000"
+            },
+            {
+                "description": "Tanah Seluas 3000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "550.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA KIJANG INNOVA Tahun 2013, HASIL SENDIRI",
+                "value": "180.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA X1H02N35M1 A/T Tahun 2018, HASIL SENDIRI",
+                "value": "18.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA NF125TR M/T Tahun 2011, HASIL SENDIRI",
+                "value": "6.000.000"
+            },
+            {
+                "description": "MOBIL, SUZUKI CARRY/ST100 Tahun 1995, HASIL SENDIRI",
+                "value": "18.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "45.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "13.100.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
     }
 ]
