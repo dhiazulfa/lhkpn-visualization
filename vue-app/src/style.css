@@ -1893,9 +1893,19 @@ body {
   backdrop-filter: blur(6px);
   z-index: 9999;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  /* mulai dari atas agar bisa scroll ke bawah */
   justify-content: center;
   padding: 20px;
+  overflow-y: auto;
+  /* overlay scrollable */
+}
+
+/* Di layar cukup besar, tetap center secara vertikal */
+@media (min-height: 700px) {
+  .modal-overlay {
+    align-items: center;
+  }
 }
 
 .modal-box {
@@ -1906,6 +1916,8 @@ body {
   width: 100%;
   box-shadow: 6px 8px 0 0 var(--ink), 0 24px 48px rgba(0, 0, 0, 0.2);
   overflow: hidden;
+  /* Pastikan margin atas bawah agar tidak nempel pinggir saat scroll */
+  margin: 16px auto;
 }
 
 .modal-header {
