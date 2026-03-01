@@ -658,15 +658,20 @@ body {
 ═══════════════════════════════════════════ */
 .search-bar-wrapper {
   display: flex;
-  flex-direction: column;
-  gap: 14px;
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
   margin-bottom: 36px;
+  flex-wrap: wrap;
 }
+
 
 .search-input-wrap {
   position: relative;
   display: flex;
   align-items: center;
+  flex: 1;
+  min-width: 200px;
 }
 
 .search-icon {
@@ -722,35 +727,51 @@ body {
   color: var(--ink);
 }
 
-.filter-chips {
+.filter-select-wrap {
+  position: relative;
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.filter-chip {
-  padding: 8px 18px;
-  border-radius: 99px;
-  font-size: 0.8rem;
-  font-weight: 700;
-  font-family: var(--font);
-  border: 2px solid var(--border);
+  align-items: center;
   background: var(--bg-card);
-  color: var(--ink-3);
-  cursor: pointer;
-  transition: all 0.2s;
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
   box-shadow: var(--shadow-sm);
+  transition: border-color 0.2s, box-shadow 0.2s;
+  min-width: 220px;
 }
 
-.filter-chip:hover {
-  border-color: var(--lime-d);
-  color: var(--ink);
-}
-
-.filter-chip--active {
-  background: var(--ink);
+.filter-select-wrap:focus-within {
   border-color: var(--ink);
-  color: var(--lime);
+  box-shadow: 2px 3px 0 0 var(--ink);
+}
+
+.filter-select-icon {
+  padding-left: 14px;
+  font-size: 1rem;
+  pointer-events: none;
+  flex-shrink: 0;
+}
+
+.filter-select {
+  flex: 1;
+  padding: 11px 36px 11px 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: var(--font);
+  color: var(--ink-2);
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.filter-select-arrow {
+  position: absolute;
+  right: 12px;
+  font-size: 0.75rem;
+  color: var(--ink-3);
+  pointer-events: none;
 }
 
 .results-info {

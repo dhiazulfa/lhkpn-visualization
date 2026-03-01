@@ -96,16 +96,13 @@
           />
           <button v-if="searchQuery" @click="searchQuery=''" class="search-clear">✕</button>
         </div>
-        <div class="filter-chips">
-          <button
-            v-for="f in jabatanFilters"
-            :key="f"
-            class="filter-chip"
-            :class="{ 'filter-chip--active': activeFilter === f }"
-            @click="activeFilter = activeFilter === f ? 'Semua' : f"
-          >
-            {{ f }}
-          </button>
+        <div class="filter-select-wrap">
+          <span class="filter-select-icon">🏷️</span>
+          <select v-model="activeFilter" class="filter-select" id="filter-jabatan">
+            <option value="Semua">Semua Jabatan</option>
+            <option v-for="f in jabatanOptions" :key="f" :value="f">{{ f }}</option>
+          </select>
+          <span class="filter-select-arrow">▾</span>
         </div>
       </div>
 
@@ -298,9 +295,8 @@ const officials = computed(() => {
   return result.sort((a, b) => b.latestHartaNum - a.latestHartaNum)
 })
 
-const jabatanFilters = computed(() => {
-  const all = ['Semua', ...new Set(officials.value.map(o => o.latestJabatan))]
-  return all
+const jabatanOptions = computed(() => {
+  return [...new Set(officials.value.map(o => o.latestJabatan))].sort()
 })
 
 const filteredOfficials = computed(() => {
