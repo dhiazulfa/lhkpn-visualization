@@ -5801,5 +5801,2181 @@
         "kas": [],
         "harta_lainnya": [],
         "hutang": []
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.828.713.144",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "575.000.000"
+            },
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "1.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "12.500.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "31.600.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "173.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "85.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "1.048.386.856"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.614.412.352",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "465.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "37.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "180.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2020, HASIL SENDIRI",
+                "value": "18.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "32.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "128.587.648"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.372.196.400",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "460.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "37.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "190.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2020, HASIL SENDIRI",
+                "value": "18.700.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "2.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "346.503.600"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.205.098.866",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "460.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "37.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "190.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2020, HASIL SENDIRI",
+                "value": "18.700.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "511.601.134"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2020",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.54.352.168",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "450.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "12.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2016, HASIL SENDIRI",
+                "value": "14.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2012, HASIL SENDIRI",
+                "value": "10.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL PRO Tahun 1998, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "40.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "195.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "673.647.832"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2019",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.530.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "13.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2016, HASIL SENDIRI",
+                "value": "15.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2012, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL PRO Tahun 1998, HASIL SENDIRI",
+                "value": "5.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "38.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "198.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "24 April 2019",
+        "jenis_laporan": "Khusus, Calon PN",
+        "total_harta": "Rp.209.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "125.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "13.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2016, HASIL SENDIRI",
+                "value": "15.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2012, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL PRO Tahun 1998, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "38.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.828.713.144",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "575.000.000"
+            },
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "1.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "12.500.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "31.600.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "173.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "85.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "1.048.386.856"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.614.412.352",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "465.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "37.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "180.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2020, HASIL SENDIRI",
+                "value": "18.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "32.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "128.587.648"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.372.196.400",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "460.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "37.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "190.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2020, HASIL SENDIRI",
+                "value": "18.700.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "2.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "346.503.600"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.205.098.866",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 325 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "460.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "37.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "190.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2020, HASIL SENDIRI",
+                "value": "18.700.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "511.601.134"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2020",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.54.352.168",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "450.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "12.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2016, HASIL SENDIRI",
+                "value": "14.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2012, HASIL SENDIRI",
+                "value": "10.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL PRO Tahun 1998, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "40.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "195.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "673.647.832"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2019",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.530.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "13.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2016, HASIL SENDIRI",
+                "value": "15.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2012, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL PRO Tahun 1998, HASIL SENDIRI",
+                "value": "5.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "38.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "198.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "WIDIYATNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GOLONGAN KARYA",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "24 April 2019",
+        "jenis_laporan": "Khusus, Calon PN",
+        "total_harta": "Rp.209.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "125.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2016, HASIL SENDIRI",
+                "value": "13.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2016, HASIL SENDIRI",
+                "value": "15.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA VIXION Tahun 2012, HASIL SENDIRI",
+                "value": "11.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL PRO Tahun 1998, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA KIJANG LF 80 Tahun 1997, HASIL SENDIRI",
+                "value": "38.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI GERINDRA PLUS PAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.329.978.713",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 200 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "350.000.000"
+            },
+            {
+                "description": "Tanah Seluas 367 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "385.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "120.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BAET Tahun 2015, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA NMAX Tahun 2019, HASIL SENDIRI",
+                "value": "21.000.000"
+            },
+            {
+                "description": "MOBIL, HONDA JAZZ Tahun 2008, HASIL SENDIRI",
+                "value": "105.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "25.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "70.578.713"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "30.000.000"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "783.600.000"
+            }
+        ]
+    },
+    {
+        "name": "AGUS SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "KECAMATAN",
+        "jabatan": "KEPALA SEKSI TATA PEMERINTAHAN",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.148.015.250",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 10000 m2 di KAB / KOTA MUSI RAWAS UTARA, HASIL SENDIRI",
+                "value": "155.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1537 m2 di KAB / KOTA MUSI RAWAS UTARA, HASIL SENDIRI",
+                "value": "55.000.000"
+            },
+            {
+                "description": "Tanah Seluas 604 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "95.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1B02N12L2 A/T Tahun 2016, HASIL SENDIRI",
+                "value": "7.500.000"
+            },
+            {
+                "description": "MOTOR, HONDA V1J02032LO A/T Tahun 2018, HASIL SENDIRI",
+                "value": "18.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "2.150.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "1.800.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "186.434.750"
+            }
+        ]
+    },
+    {
+        "name": "SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+        "jabatan": "KEPALA BIDANG",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.571.249.785",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 1162 m2/63 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "350.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 9 m2/9 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "55.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA MINIBUS Tahun 2005, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA MATIC Tahun 2009, HASIL SENDIRI",
+                "value": "3.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEBEK Tahun 2001, HASIL SENDIRI",
+                "value": "1.750.000"
+            },
+            {
+                "description": "MOTOR, HONDA C70 Tahun 1981, HASIL SENDIRI",
+                "value": "500.000"
+            },
+            {
+                "description": "MOTOR, HONDA SCOPY Tahun 2021, HASIL SENDIRI",
+                "value": "11.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "23.400.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "66.928.985"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "5.329.200"
+            }
+        ]
+    },
+    {
+        "name": "SUPRAPTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.4.361.446.530",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 400 m2/400 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "905.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 840 m2/80 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.210.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "720.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2850 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "910.000.000"
+            },
+            {
+                "description": "Tanah Seluas 910 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "180.000.000"
+            },
+            {
+                "description": "Tanah Seluas 919 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "850.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA GLPRO NEOTECH Tahun 1997, HASIL SENDIRI",
+                "value": "5.500.000"
+            },
+            {
+                "description": "MOBIL, MITSUBISHI L300 Tahun 1996, HASIL SENDIRI",
+                "value": "23.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL 100 Tahun 1993, HASIL SENDIRI",
+                "value": "4.000.000"
+            },
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1993, HASIL SENDIRI",
+                "value": "27.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "75.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "548.053.470"
+            }
+        ]
+    },
+    {
+        "name": "AGUS SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "KECAMATAN",
+        "jabatan": "KEPALA SEKSI TATA PEMERINTAHAN",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.90.176.750",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 10000 m2 di KAB / KOTA MUSI RAWAS UTARA, HASIL SENDIRI",
+                "value": "150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1537 m2 di KAB / KOTA MUSI RAWAS UTARA, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "Tanah Seluas 604 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1B02N12L2 A/T Tahun 2016, HASIL SENDIRI",
+                "value": "8.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA V1J02032LO A/T Tahun 2018, HASIL SENDIRI",
+                "value": "20.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "2.150.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "2.800.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "232.773.250"
+            }
+        ]
+    },
+    {
+        "name": "SURIP SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "BADAN PENGELOLAAN KEUANGAN DAERAH",
+        "jabatan": "KEPALA BIDANG",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.831.653.555",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 2240 m2/180 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "360.000.000"
+            },
+            {
+                "description": "Tanah Seluas 730 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "60.000.000"
+            },
+            {
+                "description": "Tanah Seluas 9020 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "155.000.000"
+            },
+            {
+                "description": "Tanah Seluas 3040 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "110.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, YAMAHA  SEPEDA MOTOR  Tahun 2017, HASIL SENDIRI",
+                "value": "17.000.000"
+            },
+            {
+                "description": "MOBIL, HONDA MINIBUS Tahun 2010, HASIL SENDIRI",
+                "value": "135.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "13.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "6.704.199"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "25.050.644"
+            }
+        ]
+    },
+    {
+        "name": "SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+        "jabatan": "KEPALA BIDANG",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.571.092.375",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 1162 m2/63 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "300.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 9 m2/9 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA MINIBUS Tahun 2005, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA MATIC Tahun 2009, HASIL SENDIRI",
+                "value": "3.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEBEK Tahun 2001, HASIL SENDIRI",
+                "value": "1.750.000"
+            },
+            {
+                "description": "MOTOR, HONDA C70 Tahun 1981, HASIL SENDIRI",
+                "value": "500.000"
+            },
+            {
+                "description": "MOTOR, HONDA SCOPY Tahun 2021, HASIL SENDIRI",
+                "value": "13.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "28.900.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "93.942.375"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "SUPRAPTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.4.910.500.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 400 m2/400 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "905.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 840 m2/80 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.210.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "700.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2850 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "910.000.000"
+            },
+            {
+                "description": "Tanah Seluas 910 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "180.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA GLPRO NEOTECH Tahun 1997, HASIL SENDIRI",
+                "value": "5.500.000"
+            },
+            {
+                "description": "MOBIL, MITSUBISHI L300 Tahun 1996, HASIL SENDIRI",
+                "value": "24.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL 100 Tahun 1993, HASIL SENDIRI",
+                "value": "4.000.000"
+            },
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1993, HASIL SENDIRI",
+                "value": "27.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "95.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "SURIP SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "BADAN PENGELOLAAN KEUANGAN DAERAH",
+        "jabatan": "KEPALA BIDANG",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.672.445.022",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 2240 m2/180 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "340.000.000"
+            },
+            {
+                "description": "Tanah Seluas 730 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "45.000.000"
+            },
+            {
+                "description": "Tanah Seluas 9020 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "140.000.000"
+            },
+            {
+                "description": "Tanah Seluas 3040 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "85.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA  MINIBUS  Tahun 2012, HASIL SENDIRI",
+                "value": "100.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA  SEPEDA MOTOR  Tahun 2017, HASIL SENDIRI",
+                "value": "17.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "13.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "1.349.312"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "68.904.290"
+            }
+        ]
+    },
+    {
+        "name": "SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "BADAN KEPEGAWAIAN DAERAH",
+        "jabatan": "KEPALA BIDANG",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.563.201.987",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 1162 m2/63 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "300.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 9 m2/9 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "60.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA MINIBUS Tahun 2005, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA MATIC Tahun 2009, HASIL SENDIRI",
+                "value": "3.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEBEK Tahun 2001, HASIL SENDIRI",
+                "value": "1.750.000"
+            },
+            {
+                "description": "MOTOR, HONDA C70 Tahun 1981, HASIL SENDIRI",
+                "value": "500.000"
+            },
+            {
+                "description": "MOTOR, HONDA SCOPY Tahun 2021, HASIL SENDIRI",
+                "value": "16.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "28.900.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "90.752.493"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "2.700.506"
+            }
+        ]
+    },
+    {
+        "name": "SUPRAPTO",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "KECAMATAN",
+        "jabatan": "KEPALA DESA PLOSO",
+        "tanggal_lapor": "6 Juni 2023",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.470.285.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 805 m2/240 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "350.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, XENIA SEDAN Tahun 2010, HASIL SENDIRI",
+                "value": "70.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "75.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "135.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "22.000.000"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "46.850.000"
+            }
+        ]
+    },
+    {
+        "name": "SUPRAPTO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.4.836.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 400 m2/400 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "900.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 840 m2/80 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.210.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "700.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2850 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "905.000.000"
+            },
+            {
+                "description": "Tanah Seluas 910 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "175.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA GLPRO NEOTECH Tahun 1997, HASIL SENDIRI",
+                "value": "6.000.000"
+            },
+            {
+                "description": "MOBIL, MITSUBISHI L300 Tahun 1996, HASIL SENDIRI",
+                "value": "24.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA GL 100 Tahun 1993, HASIL SENDIRI",
+                "value": "4.000.000"
+            },
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1993, HASIL SENDIRI",
+                "value": "27.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "35.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "SUTOYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.384.240.700",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 815 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 997 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.550.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1214 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "100.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.315.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISAN GRAND LIVINA  Tahun 2010, HASIL SENDIRI",
+                "value": "76.000.000"
+            },
+            {
+                "description": "MOTOR, BEAT HONDA Tahun 2021, HASIL SENDIRI",
+                "value": "14.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "83.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "1.004.259.300"
+            }
+        ]
+    },
+    {
+        "name": "SUTOYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.943.125.392",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 815 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 997 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.550.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1214 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "85.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.300.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISAN GRAND LIVINA  Tahun 2010, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "MOTOR, BEAT HONDA Tahun 2021, HASIL SENDIRI",
+                "value": "15.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "72.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "408.874.608"
+            }
+        ]
+    },
+    {
+        "name": "SUTOYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.282.595.070",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 815 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 997 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.550.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1214 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.300.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISAN GRAND LIVINA  Tahun 2010, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "MOTOR, BEAT HONDA Tahun 2021, HASIL SENDIRI",
+                "value": "17.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "62.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "1.056.404.930"
+            }
+        ]
+    },
+    {
+        "name": "SUTOYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.2.900.494.618",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 815 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 997 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.550.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1214 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.300.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISAN GRAND LIVINA  Tahun 2010, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "MOBIL, IZUSU PANTHER Tahun 2003, HASIL SENDIRI",
+                "value": "40.000.000"
+            },
+            {
+                "description": "MOTOR, BEAT HONDA Tahun 2021, HASIL SENDIRI",
+                "value": "17.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "32.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "1.448.505.382"
+            }
+        ]
+    },
+    {
+        "name": "SUTOYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2020",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.950.510.068",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 815 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 997 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.550.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "450.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1214 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "700.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.250.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISAN GRAND LIVINA  Tahun 2010, HASIL SENDIRI",
+                "value": "120.000.000"
+            },
+            {
+                "description": "MOBIL, IZUSU PANTHER Tahun 2003, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA` BEAT  Tahun 2015, HASIL SENDIRI",
+                "value": "10.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "32.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "1.361.489.932"
+            }
+        ]
+    },
+    {
+        "name": "SUTOYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2019",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.4.047.280.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 815 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.100.000.000"
+            },
+            {
+                "description": "Tanah Seluas 997 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.500.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1214 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "650.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2430 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "1.200.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, NISAN GRAND LIVINA  Tahun 2010, HASIL SENDIRI",
+                "value": "130.000.000"
+            },
+            {
+                "description": "MOBIL, IZUSU PANTHER Tahun 2003, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA` BEAT  Tahun 2015, HASIL SENDIRI",
+                "value": "10.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "7.280.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "750.000.000"
+            }
+        ]
     }
 ]

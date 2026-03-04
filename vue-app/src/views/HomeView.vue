@@ -135,6 +135,7 @@
           <!-- Info utama -->
           <div class="card-body">
             <h3 class="card-name">{{ official.name }}</h3>
+            <p class="card-unit-kerja" v-if="official.latestUnitKerja">🏢 {{ official.latestUnitKerja }}</p>
             <p class="card-lembaga">{{ official.latestLembaga }}</p>
           </div>
 
@@ -284,6 +285,7 @@ const officials = computed(() => {
         totalLaporan: clusterRecords.length,
         latestJabatan: latest.jabatan,
         latestLembaga: latest.lembaga,
+        latestUnitKerja: latest.unit_kerja || '',
         latestHarta: latest.total_harta,
         latestTanggal: latest.tanggal_lapor,
         latestHartaNum: parseTotal(latest.total_harta),

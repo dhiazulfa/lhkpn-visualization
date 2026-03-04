@@ -11,6 +11,7 @@
     <div class="profile-info">
       <h2 class="profile-name">{{ data.name }}</h2>
       <p class="profile-lembaga">{{ data.lembaga }}</p>
+      <p class="profile-unit-kerja" v-if="data.unit_kerja">🏢 {{ data.unit_kerja }}</p>
       <div class="profile-meta">
         <div class="meta-item">
           <span class="meta-icon">📅</span>
