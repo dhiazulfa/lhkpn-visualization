@@ -13301,5 +13301,652 @@
                 "value": "1.500.000.000"
             }
         ]
+    },
+    {
+        "name": "IWAN ISKANDAR",
+        "lembaga": "PEMERINTAH KABUPATEN WONOGIRI",
+        "unit_kerja": "DINAS KESEHATAN",
+        "jabatan": "KEPALA UNIT",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.7.359.050.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 431 m2/294 m2 di KAB / KOTA KOTA SURAKARTA , HASIL SENDIRI",
+                "value": "812.050.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 926 m2/350 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "765.000.000"
+            },
+            {
+                "description": "Tanah Seluas 3470 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "200.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "Tanah Seluas 342 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "45.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1741 m2 di KAB / KOTA SUKOHARJO, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "Tanah Seluas 416 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1860 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2855 m2 di KAB / KOTA PONOROGO, WARISAN",
+                "value": "135.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 166 m2/150 m2 di KAB / KOTA KOTA SURAKARTA , HASIL SENDIRI",
+                "value": "515.000.000"
+            },
+            {
+                "description": "Tanah Seluas 800 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "350.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2017, HASIL SENDIRI",
+                "value": "10.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2017, HASIL SENDIRI",
+                "value": "10.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA N MAX Tahun 2021, HASIL SENDIRI",
+                "value": "25.000.000"
+            },
+            {
+                "description": "MOBIL, HONDA HRV Tahun 2022, HASIL SENDIRI",
+                "value": "270.000.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA VIOS Tahun 2009, HASIL SENDIRI",
+                "value": "80.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "3.872.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "SUGIHARNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI KEBANGKITAN BANGSA DEMOKRAT",
+        "jabatan": "SEKRETARIS FRAKSI",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.509.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 1100 m2/186 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "252.000.000"
+            },
+            {
+                "description": "Tanah Seluas 650 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "92.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1294 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "153.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1370 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "62.000.000"
+            },
+            {
+                "description": "Tanah Seluas 80 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "15.000.000"
+            },
+            {
+                "description": "Tanah Seluas 650 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "37.000.000"
+            },
+            {
+                "description": "Tanah Seluas 10500 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "102.000.000"
+            },
+            {
+                "description": "Tanah Seluas 14000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "102.000.000"
+            },
+            {
+                "description": "Tanah Seluas 110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "66.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2400 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "53.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1208 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "52.000.000"
+            },
+            {
+                "description": "Tanah Seluas 8000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "41.000.000"
+            },
+            {
+                "description": "Tanah Seluas 12000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "153.000.000"
+            },
+            {
+                "description": "Tanah Seluas 14000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "52.000.000"
+            },
+            {
+                "description": "Tanah Seluas 6000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "71.000.000"
+            },
+            {
+                "description": "Tanah Seluas 13100 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "102.000.000"
+            },
+            {
+                "description": "Tanah Seluas 10160 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "101.000.000"
+            },
+            {
+                "description": "Tanah Seluas 425 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "91.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1702 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "102.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1610 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "72.000.000"
+            },
+            {
+                "description": "Tanah Seluas 3683 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "165.000.000"
+            },
+            {
+                "description": "Tanah Seluas 13100 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "210.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 27830 m2/1416 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "1.810.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA Tahun 2008, HASIL SENDIRI",
+                "value": "56.000.000"
+            },
+            {
+                "description": "MOBIL, ISUZU TRUK ELF MB BARANG Tahun 2010, HASIL SENDIRI",
+                "value": "85.000.000"
+            },
+            {
+                "description": "MOBIL, MITSUBISHI MIKROBUS Tahun 1983, HASIL SENDIRI",
+                "value": "25.000.000"
+            },
+            {
+                "description": "MOTOR, CBR R5F04R24L1M/T Tahun 2021, HASIL SENDIRI",
+                "value": "22.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "300.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "15.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "950.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SUGIHARNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI KEBANGKITAN BANGSA DEMOKRAT",
+        "jabatan": "SEKRETARIS FRAKSI",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.165.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 1100 m2/186 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 650 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1294 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1370 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "Tanah Seluas 80 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "12.000.000"
+            },
+            {
+                "description": "Tanah Seluas 650 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "35.000.000"
+            },
+            {
+                "description": "Tanah Seluas 10500 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "100.000.000"
+            },
+            {
+                "description": "Tanah Seluas 14000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "100.000.000"
+            },
+            {
+                "description": "Tanah Seluas 110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2400 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1208 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "Tanah Seluas 8000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "40.000.000"
+            },
+            {
+                "description": "Tanah Seluas 12000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 14000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "Tanah Seluas 6000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "70.000.000"
+            },
+            {
+                "description": "Tanah Seluas 13100 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "100.000.000"
+            },
+            {
+                "description": "Tanah Seluas 10160 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "100.000.000"
+            },
+            {
+                "description": "Tanah Seluas 425 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1702 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "100.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1610 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "70.000.000"
+            },
+            {
+                "description": "Tanah Seluas 3683 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "160.000.000"
+            },
+            {
+                "description": "Tanah Seluas 13100 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "200.000.000"
+            },
+            {
+                "description": "Tanah dan Bangunan Seluas 27830 m2/1416 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "1.800.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA Tahun 2008, HASIL SENDIRI",
+                "value": "59.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA N MAX Tahun 2017, HASIL SENDIRI",
+                "value": "14.000.000"
+            },
+            {
+                "description": "MOBIL, ISUZU TRUK ELF MB BARANG Tahun 2010, HASIL SENDIRI",
+                "value": "118.000.000"
+            },
+            {
+                "description": "MOBIL, MITSUBISHI MIKROBUS Tahun 1983, HASIL SENDIRI",
+                "value": "29.000.000"
+            },
+            {
+                "description": "MOTOR, CBR R5F04R24L1M/T Tahun 2021, HASIL SENDIRI",
+                "value": "28.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "250.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "20.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "1.250.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SUGIHARNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GERAKAN INDONESIA RAYA",
+        "jabatan": "SEKRETARIS FRAKSI",
+        "tanggal_lapor": "31 Desember 2018",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.3.787.349.839",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 1100 m2/186 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "800.000.000"
+            },
+            {
+                "description": "Tanah Seluas 650 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1294 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1370 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2140 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "Tanah Seluas 80 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "12.000.000"
+            },
+            {
+                "description": "Tanah Seluas 6500 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "110.000.000"
+            },
+            {
+                "description": "Tanah Seluas 18171 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            },
+            {
+                "description": "Tanah Seluas 12903 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "300.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2010 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            },
+            {
+                "description": "Tanah Seluas 14000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "350.000.000"
+            },
+            {
+                "description": "Tanah Seluas 110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "Tanah Seluas 2450 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "75.000.000"
+            },
+            {
+                "description": "Tanah Seluas 1500 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "30.000.000"
+            },
+            {
+                "description": "Tanah Seluas 8000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "60.000.000"
+            },
+            {
+                "description": "Tanah Seluas 12000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "90.000.000"
+            },
+            {
+                "description": "Tanah Seluas 14000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "80.000.000"
+            },
+            {
+                "description": "Tanah Seluas 6000 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "450.500.000"
+            },
+            {
+                "description": "Tanah Seluas 3093 m2 di KAB / KOTA WONOGIRI, WARISAN",
+                "value": "450.000.000"
+            },
+            {
+                "description": "Tanah Seluas 425 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "12.000.000"
+            },
+            {
+                "description": "Tanah Seluas 10160 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "400.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA Tahun 2008, HASIL SENDIRI",
+                "value": "60.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA N MAX Tahun 2017, HASIL SENDIRI",
+                "value": "18.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA MIO Tahun 2016, HASIL SENDIRI",
+                "value": "11.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "151.150.161"
+            }
+        ]
+    },
+    {
+        "name": "SUGIHARNO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI GERAKAN INDONESIA RAYA",
+        "jabatan": "SEKRETARIS FRAKSI",
+        "tanggal_lapor": "31 Desember 2017",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.481.349.839",
+        "tanah_bangunan": [],
+        "transportasi": [],
+        "bergerak_lainnya": [],
+        "surat_berharga": [],
+        "kas": [],
+        "harta_lainnya": [],
+        "hutang": []
+    },
+    {
+        "name": "HARIYADI",
+        "lembaga": "KEMENTERIAN AGAMA",
+        "unit_kerja": "KANTOR WILAYAH KEMENTERIAN AGAMA PROVINSI",
+        "jabatan": "KEPALA KANTOR KEMENTERIAN AGAMA KABUPATEN WONOGIRI",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.732.859.924",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 345 m2/110 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "261.250.000"
+            },
+            {
+                "description": "Tanah Seluas 2205 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "200.000.000"
+            },
+            {
+                "description": "Tanah Seluas 378 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "75.000.000"
+            },
+            {
+                "description": "Tanah Seluas 139 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "55.600.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VARIO SEPEDA MOTOR Tahun 2010, HASIL SENDIRI",
+                "value": "12.750.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA SEPEDA MOTOR Tahun 2012, HASIL SENDIRI",
+                "value": "6.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA EYB A/T Tahun 2020, HASIL SENDIRI",
+                "value": "13.500.000"
+            },
+            {
+                "description": "MOBIL, ISUZU PANTHER HI GRADE LS Tahun 2004, HASIL SENDIRI",
+                "value": "105.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA Y3B02R17LO M/T Tahun 2021, HASIL SENDIRI",
+                "value": "18.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "123.250.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "61.346.924"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "199.337.000"
+            }
+        ]
     }
 ]
