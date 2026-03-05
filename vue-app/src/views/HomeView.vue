@@ -35,9 +35,6 @@
             <div class="chip chip-ink">📊 Visualisasi Interaktif</div>
             <div class="chip chip-lime">⚡ {{ officials.length }} Pejabat</div>
           </div>
-          <a href="#officials" class="hero-cta-btn">
-            Lihat Semua Pejabat →
-          </a>
         </div>
 
         <!-- RIGHT: illustration -->
@@ -107,20 +104,20 @@
       </div>
 
       <!-- Results count -->
-      <div class="results-info" v-if="filteredOfficials.length !== officials.length">
-        <span>Menampilkan <strong>{{ filteredOfficials.length }}</strong> dari {{ officials.length }} pejabat</span>
+      <div class="results-info">
+        <span>Menampilkan <strong>{{ pagedOfficials.length }}</strong> dari {{ filteredOfficials.length }} pejabat</span>
       </div>
 
       <!-- Grid pejabat -->
       <div v-if="filteredOfficials.length > 0" class="officials-grid">
         <RouterLink
-          v-for="(official, i) in filteredOfficials"
+          v-for="(official, i) in pagedOfficials"
           :key="official.groupKey"
           :to="'/official/' + encodeURIComponent(official.groupKey)"
           class="official-card"
         >
           <!-- Rank badge -->
-          <div class="card-rank">#{{ i + 1 }}</div>
+          <div class="card-rank">#{{ (currentPage - 1) * PAGE_SIZE + i + 1 }}</div>
 
           <!-- Header card -->
           <div class="card-header">
@@ -166,6 +163,31 @@
         <p class="empty-search-icon">🔍</p>
         <p class="empty-search-text">Nggak ketemu pejabat dengan nama "<strong>{{ searchQuery }}</strong>"</p>
         <button @click="searchQuery = ''; activeFilter = 'Semua'" class="btn-reset">Reset Pencarian</button>
+      </div>
+
+      <!-- Pagination -->
+      <div v-if="totalPages > 1" class="pagination">
+        <button
+          class="page-btn page-btn--nav"
+          :disabled="currentPage === 1"
+          @click="goToPage(currentPage - 1)"
+        >← Prev</button>
+
+        <template v-for="p in pageNumbers" :key="p">
+          <span v-if="p === '...'" class="page-ellipsis">…</span>
+          <button
+            v-else
+            class="page-btn"
+            :class="{ 'page-btn--active': p === currentPage }"
+            @click="goToPage(p)"
+          >{{ p }}</button>
+        </template>
+
+        <button
+          class="page-btn page-btn--nav"
+          :disabled="currentPage === totalPages"
+          @click="goToPage(currentPage + 1)"
+        >Next →</button>
       </div>
     </section>
 
@@ -223,16 +245,19 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import AppFooter from '../components/AppFooter.vue'
 import { formatRupiah, parseTotal, clusterByTanah } from '../utils/lhkpn.js'
+
+const PAGE_SIZE = 9
 
 const router = useRouter()
 const lhkpnData = ref([])
 const loading = ref(true)
 const searchQuery = ref('')
 const activeFilter = ref('Semua')
+const currentPage = ref(1)
 const heroImg = ref(null)
 const showDisclaimer = ref(false)
 
@@ -308,6 +333,40 @@ const filteredOfficials = computed(() => {
     return matchSearch && matchFilter
   })
 })
+
+// Reset halaman ke 1 kalau filter/search berubah
+watch([searchQuery, activeFilter], () => { currentPage.value = 1 })
+
+const totalPages = computed(() => Math.ceil(filteredOfficials.value.length / PAGE_SIZE))
+
+const pagedOfficials = computed(() => {
+  const start = (currentPage.value - 1) * PAGE_SIZE
+  return filteredOfficials.value.slice(start, start + PAGE_SIZE)
+})
+
+// Buat array nomor halaman dengan ellipsis kalau terlalu panjang
+const pageNumbers = computed(() => {
+  const total = totalPages.value
+  const current = currentPage.value
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
+
+  const pages = []
+  pages.push(1)
+  if (current > 3) pages.push('...')
+  for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) {
+    pages.push(i)
+  }
+  if (current < total - 2) pages.push('...')
+  pages.push(total)
+  return pages
+})
+
+const goToPage = (p) => {
+  if (p < 1 || p > totalPages.value) return
+  currentPage.value = p
+  // Scroll ke atas grid
+  document.getElementById('officials')?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+}
 
 const totalLaporan = computed(() => lhkpnData.value.length)
 
