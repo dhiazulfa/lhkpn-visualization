@@ -18,7 +18,7 @@
         <div class="hero-left">
           <div class="hero-badge hero-badge--dark">
             <span class="badge-dot badge-dot--lime"></span>
-            Data Resmi LHKPN · KPK RI · Wonogiri
+            Data Resmi LHKPN · KPK RI ·
           </div>
           <h1 class="hero-title hero-title--dark">
             Yuk, Ngintip<br/>
