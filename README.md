@@ -182,4 +182,4 @@ Pull request sangat disambut! Untuk perubahan besar, harap buka *issue* terlebih
 
 ## 📄 Lisensi
 
-Team Dibalik layar (LICENSE) © 2026 [key8ice](https://github.com/dhiazulfa) [mxsgx] (https://github.com/msxgx) [nuli] (https://github.com/daenuli)
+Team Dibalik layar (LICENSE) © 2026 [key8ice](https://github.com/dhiazulfa) [mxsgx](https://github.com/msxgx) [nuli](https://github.com/daenuli)
