@@ -4822,6 +4822,73 @@
         "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
         "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
         "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.154.085.052",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 570 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "210.000.000"
+            },
+            {
+                "description": "Tanah Seluas 404 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "340.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, SUZUKI NEX Tahun 2018, HASIL SENDIRI",
+                "value": "8.500.000"
+            },
+            {
+                "description": "MOBIL, ISUZU PANTER Tahun 2003, HASIL SENDIRI",
+                "value": "105.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA NMAX Tahun 2023, HASIL SENDIRI",
+                "value": "28.500.000"
+            },
+            {
+                "description": "MOBIL, ISUZU PANTER Tahun 1996, HASIL SENDIRI",
+                "value": "31.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "31.549.402"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "600.964.350"
+            }
+        ]
+    },
+    {
+        "name": "AZALEA PUTERI UTAMI",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI PARTAI DEMOKRASI INDONESIA PERJUANGAN",
+        "jabatan": "ANGGOTA DPRD",
         "tanggal_lapor": "31 Desember 2024",
         "jenis_laporan": "Periodik",
         "total_harta": "Rp.43.430.062",
@@ -13946,6 +14013,1844 @@
             {
                 "description": "Total",
                 "value": "199.337.000"
+            }
+        ]
+    },
+    {
+        "name": "SATYA GRAHA",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.352.500.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 314 m2/180 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "345.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VERZA Tahun 2013, HASIL SENDIRI",
+                "value": "6.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "1.000.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "SATYA GRAHA",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.338.200.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 314 m2/180 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "330.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA VERZA Tahun 2013, HASIL SENDIRI",
+                "value": "7.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "1.200.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "SATYA GRAHA",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.78.740.000",
+        "tanah_bangunan": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA AVANZA Tahun 2007, HASIL SENDIRI",
+                "value": "70.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA VERZA Tahun 2013, HASIL SENDIRI",
+                "value": "7.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "1.740.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.706.094.579",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 2898 m2 di KAB / KOTA CILACAP, WARISAN",
+                "value": "579.600.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "66.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA BBP-L A/T Tahun 2024, HASIL SENDIRI",
+                "value": "28.250.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "41.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "2.994.579"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "11.750.000"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.729.714.911",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 2898 m2 di KAB / KOTA CILACAP, WARISAN",
+                "value": "579.600.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "66.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA BBP-L A/T Tahun 2024, HASIL SENDIRI",
+                "value": "28.250.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "41.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "14.864.911"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.722.856.803",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 2898 m2 di KAB / KOTA CILACAP, WARISAN",
+                "value": "579.600.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "66.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "41.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "36.256.803"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.692.847.188",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 2898 m2 di KAB / KOTA CILACAP, WARISAN",
+                "value": "579.600.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "66.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "41.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "6.247.188"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.671.583.924",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 2898 m2 di KAB / KOTA CILACAP, WARISAN",
+                "value": "579.600.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "50.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "41.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "983.924"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2020",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.672.270.444",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 2898 m2 di KAB / KOTA CILACAP, WARISAN",
+                "value": "579.600.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "50.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "36.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "6.670.444"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2019",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.87.380.742",
+        "tanah_bangunan": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "50.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "36.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "1.380.742"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "TOTO SIHSETYO ADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "KETUA",
+        "tanggal_lapor": "31 Desember 2018",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.73.818.091",
+        "tanah_bangunan": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, DATSUN/ GO PANCA T1.2 C 01 Tahun 2016, HASIL SENDIRI",
+                "value": "50.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "29.500.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "4.318.089"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "9.999.998"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.222.580.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 132 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.000.000"
+            },
+            {
+                "description": "Tanah Seluas 133 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "7.500.000"
+            },
+            {
+                "description": "MOTOR, HONDA PCX 160 Tahun 2025, HASIL SENDIRI",
+                "value": "33.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "46.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "6.080.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI",
+        "unit_kerja": "FRAKSI GERINDRA PLUS PAN",
+        "jabatan": "ANGGOTA DPRD",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.329.978.713",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 200 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "350.000.000"
+            },
+            {
+                "description": "Tanah Seluas 367 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "385.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, TOYOTA INOVA Tahun 2013, HASIL SENDIRI",
+                "value": "120.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA BAET Tahun 2015, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOTOR, YAMAHA NMAX Tahun 2019, HASIL SENDIRI",
+                "value": "21.000.000"
+            },
+            {
+                "description": "MOBIL, HONDA JAZZ Tahun 2008, HASIL SENDIRI",
+                "value": "105.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "25.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "70.578.713"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "30.000.000"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "783.600.000"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.151.580.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 132 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "60.000.000"
+            },
+            {
+                "description": "Tanah Seluas 133 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "55.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "7.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "23.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "6.080.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.77.800.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 132 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "55.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "8.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "12.300.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "2.500.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.66.227.452",
+        "tanah_bangunan": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "9.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "10.500.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "46.227.452"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.120.100.000",
+        "tanah_bangunan": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "10.500.000"
+            },
+            {
+                "description": "MOBIL, TOYOTA  KIJANG INOVA V AT  Tahun 2007, HASIL SENDIRI",
+                "value": "105.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "4.500.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "100.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2020",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.142.604.588",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "300.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "11.500.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "160.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "169.055.412"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2019",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.47.306.019",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah Seluas 325 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "13.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "215.693.981"
+            }
+        ]
+    },
+    {
+        "name": "DWI PRASETYO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2018",
+        "jenis_laporan": "Khusus, Calon PN",
+        "total_harta": "Rp.13.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA D1A02NI8MI A/T Tahun 2015, HASIL SENDIRI",
+                "value": "13.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "IRAWAN ARY WIBOWO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.342.506.169",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 71 m2/96 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 131 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.500.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1997, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "MOTOR, SUZUKI SMASH/FD110 XCD Tahun 2002, HASIL SENDIRI",
+                "value": "2.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "6.167.380"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "27.302.543"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "58.463.754"
+            }
+        ]
+    },
+    {
+        "name": "IRAWAN ARY WIBOWO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.307.666.193",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 71 m2/96 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 131 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.500.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1997, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "MOTOR, SUZUKI SMASH/FD110 XCD Tahun 2002, HASIL SENDIRI",
+                "value": "2.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "6.167.380"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "28.111.551"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "94.112.738"
+            }
+        ]
+    },
+    {
+        "name": "IRAWAN ARY WIBOWO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.297.024.341",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 71 m2/36 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 131 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "62.500.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1997, HASIL SENDIRI",
+                "value": "50.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "4.510.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "30.014.341"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "IRAWAN ARY WIBOWO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.342.506.169",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 71 m2/96 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 131 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.500.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1997, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "MOTOR, SUZUKI SMASH/FD110 XCD Tahun 2002, HASIL SENDIRI",
+                "value": "2.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "6.167.380"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "27.302.543"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "58.463.754"
+            }
+        ]
+    },
+    {
+        "name": "IRAWAN ARY WIBOWO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.307.666.193",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 71 m2/96 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "250.000.000"
+            },
+            {
+                "description": "Tanah Seluas 131 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "65.500.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1997, HASIL SENDIRI",
+                "value": "50.000.000"
+            },
+            {
+                "description": "MOTOR, SUZUKI SMASH/FD110 XCD Tahun 2002, HASIL SENDIRI",
+                "value": "2.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "6.167.380"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "28.111.551"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "94.112.738"
+            }
+        ]
+    },
+    {
+        "name": "IRAWAN ARY WIBOWO",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.297.024.341",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 71 m2/36 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "150.000.000"
+            },
+            {
+                "description": "Tanah Seluas 131 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "62.500.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOBIL, ISUZU PANTHER Tahun 1997, HASIL SENDIRI",
+                "value": "50.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "4.510.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "30.014.341"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "name": "DONI HAFIDHIAN",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.414.015.492",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 105 m2/90 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "288.400.000"
+            },
+            {
+                "description": "Tanah Seluas 345 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "220.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2015, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2012, HASIL SENDIRI",
+                "value": "7.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "5.000.000"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "3.543.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "116.927.508"
+            }
+        ]
+    },
+    {
+        "name": "DONI HAFIDHIAN",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.350.106.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 105 m2/90 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "288.400.000"
+            },
+            {
+                "description": "Tanah Seluas 345 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "220.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2015, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2012, HASIL SENDIRI",
+                "value": "7.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "12.500.000"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "184.794.000"
+            }
+        ]
+    },
+    {
+        "name": "DONI HAFIDHIAN",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "ANGGOTA",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.86.546.469",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 7.5 m2/10.13 m2 di KAB / KOTA WONOGIRI, HASIL SENDIRI",
+                "value": "88.400.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "MOTOR, HONDA BEAT Tahun 2015, HASIL SENDIRI",
+                "value": "7.000.000"
+            },
+            {
+                "description": "MOTOR, HONDA VARIO Tahun 2012, HASIL SENDIRI",
+                "value": "7.000.000"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "20.046.469"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "35.900.000"
+            }
+        ]
+    },
+    {
+        "name": "SIGIT PURWADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "SEKRETARIS",
+        "tanggal_lapor": "31 Desember 2025",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.828.413.622",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 28 m2/31 m2 di KAB / KOTA SUKOHARJO, HASIL SENDIRI",
+                "value": "2.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "12.413.622"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "184.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SIGIT PURWADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "SEKRETARIS",
+        "tanggal_lapor": "31 Desember 2024",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.757.777.912",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 28 m2/31 m2 di KAB / KOTA SUKOHARJO, HASIL SENDIRI",
+                "value": "2.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "9.777.912"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "252.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SIGIT PURWADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "SEKRETARIS",
+        "tanggal_lapor": "31 Desember 2023",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.709.777.912",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 28 m2/31 m2 di KAB / KOTA SUKOHARJO, HASIL SENDIRI",
+                "value": "2.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "9.777.912"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "300.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SIGIT PURWADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "SEKRETARIS",
+        "tanggal_lapor": "31 Desember 2022",
+        "jenis_laporan": "Periodik",
+        "total_harta": "Rp.1.631.877.912",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 28 m2/31 m2 di KAB / KOTA SUKOHARJO, HASIL SENDIRI",
+                "value": "2.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "11.877.912"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "380.000.000"
+            }
+        ]
+    },
+    {
+        "name": "SIGIT PURWADI",
+        "lembaga": "KOMISI PEMILIHAN UMUM (KPU)",
+        "unit_kerja": "KOMISI PEMILIHAN UMUM PROVINSI JAWA TENGAH",
+        "jabatan": "SEKRETARIS",
+        "tanggal_lapor": "31 Desember 2021",
+        "jenis_laporan": "Khusus, Awal Menjabat",
+        "total_harta": "Rp.1.620.000.000",
+        "tanah_bangunan": [
+            {
+                "description": "Tanah dan Bangunan Seluas 28 m2/31 m2 di KAB / KOTA SUKOHARJO, HASIL SENDIRI",
+                "value": "2.000.000.000"
+            }
+        ],
+        "transportasi": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "bergerak_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "surat_berharga": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "kas": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "harta_lainnya": [
+            {
+                "description": "Total",
+                "value": "0"
+            }
+        ],
+        "hutang": [
+            {
+                "description": "Total",
+                "value": "380.000.000"
             }
         ]
     }
