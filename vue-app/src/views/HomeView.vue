@@ -94,10 +94,10 @@
           <button v-if="searchQuery" @click="searchQuery=''" class="search-clear">✕</button>
         </div>
         <div class="filter-select-wrap">
-          <span class="filter-select-icon">🏷️</span>
-          <select v-model="activeFilter" class="filter-select" id="filter-jabatan">
-            <option value="Semua">Semua Jabatan</option>
-            <option v-for="f in jabatanOptions" :key="f" :value="f">{{ f }}</option>
+          <span class="filter-select-icon">🏛️</span>
+          <select v-model="activeFilter" class="filter-select" id="filter-lembaga">
+            <option value="Semua">Semua Lembaga</option>
+            <option v-for="f in lembagaOptions" :key="f" :value="f">{{ f }}</option>
           </select>
           <span class="filter-select-arrow">▾</span>
         </div>
@@ -322,14 +322,14 @@ const officials = computed(() => {
   return result.sort((a, b) => b.latestHartaNum - a.latestHartaNum)
 })
 
-const jabatanOptions = computed(() => {
-  return [...new Set(officials.value.map(o => o.latestJabatan))].sort()
+const lembagaOptions = computed(() => {
+  return [...new Set(officials.value.map(o => o.latestLembaga))].sort()
 })
 
 const filteredOfficials = computed(() => {
   return officials.value.filter(o => {
     const matchSearch = o.name.toLowerCase().includes(searchQuery.value.toLowerCase())
-    const matchFilter = activeFilter.value === 'Semua' || o.latestJabatan === activeFilter.value
+    const matchFilter = activeFilter.value === 'Semua' || o.latestLembaga === activeFilter.value
     return matchSearch && matchFilter
   })
 })

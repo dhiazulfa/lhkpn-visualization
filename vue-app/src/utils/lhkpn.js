@@ -60,6 +60,9 @@ function parseTanggal(d) {
  * @returns {{ tanah: Set<string>, transportasi: Set<string> }}
  */
 function buildFingerprint(record) {
+  const lembaga = new Set(
+    record.lembaga ? [record.lembaga] : []
+  )
   const tanah = new Set(
     (record.tanah_bangunan || [])
       .map(t => t.description)
@@ -70,27 +73,33 @@ function buildFingerprint(record) {
       .map(t => t.description)
       .filter(d => d && d !== 'Total')
   )
-  return { tanah, transportasi }
+  return { lembaga, tanah, transportasi }
 }
 
 /**
  * Cek apakah dua fingerprint kemungkinan milik orang yang sama.
  * Kriteria (salah satu harus terpenuhi):
- *   1. Berbagi ≥1 deskripsi tanah/bangunan yang persis sama, ATAU
- *   2. Berbagi ≥2 deskripsi transportasi yang persis sama
+ *   1. Berbagi ≥1 lembaga yang sama, ATAU
+ *   2. Berbagi ≥1 deskripsi tanah/bangunan yang persis sama, ATAU
+ *   3. Berbagi ≥2 deskripsi transportasi yang persis sama
  *      (minimal 2 agar tidak false-positive dari kendaraan umum seperti Honda Vario)
  *
- * @param {{ tanah: Set, transportasi: Set }} fpA
- * @param {{ tanah: Set, transportasi: Set }} fpB
+ * @param {{ lembaga: Set, tanah: Set, transportasi: Set }} fpA
+ * @param {{ lembaga: Set, tanah: Set, transportasi: Set }} fpB
  * @returns {boolean}
  */
 function isSamePerson(fpA, fpB) {
-  // Kriteria 1: ada tanah yang sama
+  // Kriteria 1: lembaga yang sama
+  for (const l of fpA.lembaga) {
+    if (fpB.lembaga.has(l)) return true
+  }
+
+  // Kriteria 2: ada tanah yang sama
   for (const d of fpA.tanah) {
     if (fpB.tanah.has(d)) return true
   }
 
-  // Kriteria 2: ada ≥2 kendaraan yang sama
+  // Kriteria 3: ada ≥2 kendaraan yang sama
   let sharedVehicles = 0
   for (const d of fpA.transportasi) {
     if (fpB.transportasi.has(d)) {
@@ -128,11 +137,16 @@ export function clusterByTanah(records) {
     const hasAssets = fp.tanah.size > 0 || fp.transportasi.size > 0
 
     if (!hasAssets) {
-      // Tidak punya aset sama sekali → gabung ke cluster terakhir
-      if (clusters.length > 0) {
+      // Tidak punya aset sama sekali → cek lembaga dulu, baru fallback ke cluster terakhir
+      const lembagaMatchIdx = clusters.findIndex(c => isSamePerson(c, fp))
+      if (lembagaMatchIdx >= 0) {
+        clusters[lembagaMatchIdx].records.push(record)
+        fp.lembaga.forEach(l => clusters[lembagaMatchIdx].lembaga.add(l))
+      } else if (clusters.length > 0) {
         clusters[clusters.length - 1].records.push(record)
+        fp.lembaga.forEach(l => clusters[clusters.length - 1].lembaga.add(l))
       } else {
-        clusters.push({ tanah: new Set(), transportasi: new Set(), records: [record] })
+        clusters.push({ lembaga: fp.lembaga, tanah: new Set(), transportasi: new Set(), records: [record] })
       }
       return
     }
@@ -143,11 +157,12 @@ export function clusterByTanah(records) {
     if (matchIdx >= 0) {
       // Orang yang sama — tambahkan record dan perbarui fingerprint cluster (union)
       clusters[matchIdx].records.push(record)
+      fp.lembaga.forEach(l => clusters[matchIdx].lembaga.add(l))
       fp.tanah.forEach(d => clusters[matchIdx].tanah.add(d))
       fp.transportasi.forEach(d => clusters[matchIdx].transportasi.add(d))
     } else {
       // Orang baru — buat cluster baru
-      clusters.push({ tanah: fp.tanah, transportasi: fp.transportasi, records: [record] })
+      clusters.push({ lembaga: fp.lembaga, tanah: fp.tanah, transportasi: fp.transportasi, records: [record] })
     }
   })
 
